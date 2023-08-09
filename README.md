@@ -15,4 +15,4 @@ Here are all of my (public) repositories:
 - [./h-bank](./h-bank) - only my part
 - [./treshe](https://github.com/danik00111/treshe) - a treshepile of memes, banished to github to not take up space on my mac
 
- *\* those links only work on the [github pages](https://danik0011.github.io), as they are a relative path (./repo-name)*
+ *\* those links only work on the [github pages](https://danik00111.github.io), as they are a relative path (./repo-name)*
