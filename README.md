@@ -6,7 +6,7 @@
 Here are all of my (public) repositories:
 - **[./js-mega-folder](./js-mega-folder) - a huge list of all projects i made after we started learning js, my most active repo with constant commits and a listing directory on index**
 - [./banderogus](https://magical-churros-18d4ea.netlify.app/) - my first ever project, that i made on the 7-day test-drive
-- [./Youtube (aka. YouXing)](./Youtube) - a site that everyone made on the lessons
+- [./Youtube](./Youtube) (aka. YouXing) - a site that everyone made on the lessons
 - [./beauty-salon](./beauty-salon) - a site where i did 99% of the site, fixing all bugs that the boys did (i regrer ir :/)
 - [./cookie-clicker-backup](./cookie-clicker-backup) - haven't played in ages, the save file is from like months ago
 - [./folder-backup](./folder-backup) - a filedump of projects i made before we started learning js
@@ -14,3 +14,5 @@ Here are all of my (public) repositories:
 - [./h-bank-full](./h-bank-full) - and another one
 - [./h-bank](./h-bank) - only my part
 - [./treshe](https://github.com/danik00111/treshe) - a treshepile of memes, banished to github to not take up space on my mac
+
+ *\* those links only work on the github pages, as they are a relative path (./repo-name)*
