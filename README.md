@@ -13,6 +13,7 @@ Here are all of my (public) repositories:
 - [./mogo](./mogo) - another site remade by me and the boys on the frontend course
 - [./h-bank-full](./h-bank-full) - and another one
 - [./h-bank](./h-bank) - only my part
+- [./banderogus](https://magical-churros-18d4ea.netlify.app/) - my solo project ~~that delivers a credit card right to the front of your house~~
 - [./treshe](https://github.com/danik00111/treshe) - a treshepile of memes, banished to github to not take up space on my mac
 
  *\* those links only work on the [github pages](https://danik00111.github.io), as they are a relative path (./repo-name)*
