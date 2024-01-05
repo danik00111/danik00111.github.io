@@ -15,5 +15,6 @@ Here are all of my (public) repositories:
 - [./h-bank](./h-bank) - only my part
 - [./credot-carb](./credot-carb) - my solo project ~~that delivers a credit card right to the front of your house~~
 - [./treshe](https://github.com/danik00111/treshe) - a treshepile of memes, banished to github to not take up space on my mac
+- [./mines-weppeer](./mines-weppeer) - a game where you wepp mine
 
  *\* those links only work on the [github pages](https://danik00111.github.io), as they are a relative path (./repo-name)*
