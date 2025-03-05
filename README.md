@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danik00111
 - 👀 I’m interested in coding, speedcubing, reading, gaming, and Discord, and it's a mystery how do i still have a life and find time to touch grass.
-- 🌱 I’m currently learning FrontEnd JS in a group
+- 🌱 I’m currently learning JSX and will soon move on to TS
 - 📫 It's easy to find me - `@deepfrieduser` on Discord
 
 Here are my main projects:
